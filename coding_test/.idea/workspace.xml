@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b9bd2cc7-90f0-42e7-b2b2-512c4cc1418f" name="Changes" comment="" />
+    <list default="true" id="b9bd2cc7-90f0-42e7-b2b2-512c4cc1418f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../week1/01_greedy_algorithm/01_5_choosing_bowling_ball.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week1/01_greedy_algorithm/01_6_muzi's_mukbang_live.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week1/01_greedy_algorithm/01_6_muzi's_mukbang_live_v2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week1/01_greedy_algorithm/01_1_travler_guild.py" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/01_greedy_algorithm/01_1_travler_guild.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week1/01_greedy_algorithm/01_3_reverse_strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/01_greedy_algorithm/01_3_reverse_strings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week1/01_greedy_algorithm/01_3_reverse_strings_v2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/01_greedy_algorithm/01_3_reverse_strings_v2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week1/01_greedy_algorithm/01_4_만들수 없는 금액.py" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/01_greedy_algorithm/01_4_unable_to_make.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,7 +26,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="28GunLUwDUiMCA82UlYzmSt8qJ7" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -31,49 +39,12 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
-  <component name="RunManager" selected="Python.01_2_x+">
-    <configuration name="01_1_travler_guild" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="week1" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week01/01_greedy_algorithm" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week01/01_greedy_algorithm/01_1_travler_guild.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="01_2_x+" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="week1" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week01/01_greedy_algorithm" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week01/01_greedy_algorithm/01_2_x+.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\hanghae99\06_hikers\coding_test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.01_6_muzi's_mukbang_live">
     <configuration name="01_3_reverse_strings" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="week1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -82,11 +53,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week01/01_greedy_algorithm" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../week1/01_greedy_algorithm" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week01/01_greedy_algorithm/01_3_reverse_strings.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../week1/01_greedy_algorithm/01_3_reverse_strings.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -103,11 +74,74 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week01/01_greedy_algorithm" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../week1/01_greedy_algorithm" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week01/01_greedy_algorithm/01_3_reverse_strings_v2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../week1/01_greedy_algorithm/01_3_reverse_strings_v2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="01_5_choosing_bowling_ball (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="week1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../week1/01_greedy_algorithm" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../week1/01_greedy_algorithm/01_5_choosing_bowling_ball.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="01_5_choosing_bowling_ball" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="week1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../week1/01_greedy_algorithm" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="D:\hanghae99\06_hikers\week1\01_greedy_algorithm\01_5_choosing_bowling_ball.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="01_6_muzi's_mukbang_live" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="week1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../week1/01_greedy_algorithm" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../week1/01_greedy_algorithm/01_6_muzi's_mukbang_live.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -214,10 +248,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.01_2_x+" />
-        <item itemvalue="Python.01_1_travler_guild" />
+        <item itemvalue="Python.01_6_muzi's_mukbang_live" />
+        <item itemvalue="Python.01_5_choosing_bowling_ball (1)" />
         <item itemvalue="Python.01_3_reverse_strings_v2" />
         <item itemvalue="Python.01_3_reverse_strings" />
+        <item itemvalue="Python.01_5_choosing_bowling_ball" />
       </list>
     </recent_temporary>
   </component>

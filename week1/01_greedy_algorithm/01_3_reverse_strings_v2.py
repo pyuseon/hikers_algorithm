@@ -11,6 +11,6 @@ for k, g in it.groupby(s):
         zero_to_one += 1
     else:
         one_to_zero += 1
-    # print(k, list(g))
+    print(k, list(g))
 
 print(min(zero_to_one, one_to_zero))

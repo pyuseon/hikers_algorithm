@@ -8,7 +8,6 @@ if string[0] == "1":
 else:
     zero_to_one += 1
 
-
 for i in range(1, len(string)):
     if string[i] != string[i-1]:
         if string[i] == "1":
