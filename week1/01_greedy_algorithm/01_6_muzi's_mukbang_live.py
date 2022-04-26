@@ -34,30 +34,28 @@ def solution(food_times, k):
         return k+1
 
     queue = []
-    for i, f in enumerate(food_times):  # heapq 생성
-        heapq.heappush(queue, [f, i])   # [음식양, 인덱스]
+    for idx, food in enumerate(food_times):  # heapq 생성
+        heapq.heappush(queue, [food, idx])   # [음식양, 인덱스]
 
     sum_time = 0
     prev_time = 0
     print(queue)
-    while k >= sum_time:
+    while k >= sum_time + (queue[0][0]- prev_time)*food_len:
         min_time, idx = queue[0]
         sum_time += food_len * (min_time-prev_time)
         heapq.heappop(queue)
         food_len = len(queue)
         prev_time = min_time
-        print(queue)
-        print(sum_time)
 
 
-    queue.sort(key=lambda k :k[1])
+    result = sorted(queue, key = lambda x: x[1])
     print("최종 큐")
     print(queue)
-    return queue[(k-sum_time) % food_len][1]
+    return result[(k-sum_time) % food_len][1]
 
 
 
-
+#
 # food_times = [4, 2, 3, 6, 7, 1, 5, 8]
 # k = 16
 
@@ -65,6 +63,8 @@ food_times = [3, 1, 2]
 k = 5
 
 result = solution(food_times, k)
+print(result)
+
 
 # def solution(food_times, k):
 #
