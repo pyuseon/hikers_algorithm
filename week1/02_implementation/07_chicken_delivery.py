@@ -33,5 +33,4 @@ for c in combination:
     if city_dist < result:
         result = city_dist
 
-
 print(result)
