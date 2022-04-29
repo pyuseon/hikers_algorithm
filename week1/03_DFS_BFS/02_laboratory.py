@@ -20,6 +20,7 @@ n, m = map(int, input().split())
 
 initGraph = [list(map(int, input().split())) for _ in range(n)]
 
+print(initGraph)
 # 네가지 방향 이동
 dx = [-1, 1, 0, 0]
 dy = [0, 0, -1, 1]
@@ -46,6 +47,19 @@ def bfs(x, y, virusGraph):
     return virus
 
 
+# 깊이 우선 탐색(DFS)을 이용해 각 바이러스가 사방으로 퍼지도록 하기
+# def virus(x, y) :
+#   for i in range(4) :
+#     nx = x + dx[i]
+#     ny = y + dy[i]
+#     # 상, 하, 좌, 우 중에서 바이러스가 퍼질 수 있는 경우
+#     if nx >= 0 and nx < n and ny >= 0 and ny < m :
+#       if temp[nx][ny] == 0 :
+#         # 해당 위치에 바이러스 배치하고, 다시 재귀적으로 실행
+#         temp[nx][ny] = 2
+#         virus(nx, ny)
+
+
 # 빈칸인 위치 찾기
 empty_list = []
 for empty_x in range(n):
@@ -62,6 +76,7 @@ for three_wall in three_wall_list:
     virusGraph = copy.deepcopy(initGraph)
     # 벽 세개 만들기
     for wall in three_wall:
+
         wall_x, wall_y = wall
         virusGraph[wall_x][wall_y] = 1
 
