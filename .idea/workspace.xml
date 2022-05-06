@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="67895403-2213-42c7-9d70-3eca7aea1f4d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_binary_search/00_binary_search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_binary_search/00_binary_search_forloop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_binary_search/00_sequential_search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_binary_search/01_정렬된 배열에서 특정 수의 개수 구하기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_binary_search/03_공유기설치.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_binary_search/04_가사찾기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_binary_search/ex01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_dynamic_programming/01_gold!.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_dynamic_programming/02_triangle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_dynamic_programming/03_퇴사.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_dynamic_programming/04_병사배치하기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_dynamic_programming/05_ugly_number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_dynamic_programming/06_편집거리.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_shortest_path/01_플로이드.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/week02/03_징검다리건너기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/week02/05_불량사용자.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/week02/stack_문제.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/week02/괄호 스택.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/coding_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/coding_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/week1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/06_hikers_algorithm.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05_tree/02_고정점 찾기.py" beforeDir="false" afterPath="$PROJECT_DIR$/05_binary_search/02_고정점 찾기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/01_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/week01/01_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/02_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/week01/02_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/03_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/week01/03_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/03_test_v2.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/week01/03_test_v2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/04_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/week01/04_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/05_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/week01/05_test.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="28dPNghST3I5uMm7ltGZhGDCpXt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\hanghae99\06_hikers_algorithm\test\week01" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.괄호 스택">
+    <configuration name="괄호 스택" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="06_hikers_algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test/week02" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/week02/괄호 스택.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="00_binary_search" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="06_hikers_algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05_binary_search" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05_binary_search/00_binary_search.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="00_sequential_search" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="06_hikers_algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05_binary_search" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05_binary_search/00_sequential_search.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="05_불량사용자" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="06_hikers_algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test/week02" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/week02/05_불량사용자.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="stack_문제" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="06_hikers_algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test/week02" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/week02/stack_문제.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.괄호 스택" />
+        <item itemvalue="Python.stack_문제" />
+        <item itemvalue="Python.05_불량사용자" />
+        <item itemvalue="Python.00_binary_search" />
+        <item itemvalue="Python.00_sequential_search" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="67895403-2213-42c7-9d70-3eca7aea1f4d" name="Changes" comment="" />
+      <created>1651543452011</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1651543452011</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+  </component>
+</project>

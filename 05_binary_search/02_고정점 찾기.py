@@ -18,7 +18,7 @@ array = list(map(int, input().split()))
 index = binary_search(array, 0, n-1)
 
 # 고정점이 없는 경우 -1 출력
-if index == Nonde :
-    print(i)
+if index == None :
+    print(-1)
 else :
     print(index)
