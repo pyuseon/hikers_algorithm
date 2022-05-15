@@ -9,7 +9,6 @@ def check_id(user, ban):
         for i in range(len(ban)):
             if ban[i] == "*":
                 continue
-
             if ban[i] == user[i]:
                 continue
             else:

@@ -1,4 +1,3 @@
-
 def solution(str_input):
     stack = []
     for s in str_input :

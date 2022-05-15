@@ -1,3 +1,4 @@
+# 거리두기 확인하기
 # https://programmers.co.kr/learn/courses/30/lessons/81302
 # https://velog.io/@sem/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-LEVEL2-%EA%B1%B0%EB%A6%AC%EB%91%90%EA%B8%B0-%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0-Python
 from collections import deque
