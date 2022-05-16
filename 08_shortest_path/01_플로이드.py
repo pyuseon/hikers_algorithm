@@ -1,8 +1,6 @@
-
-
 #입력
-n = int(input())
-m = int(input())
+n = int(input()) # 도시의 개수
+m = int(input()) # 버스의 개수
 bus_cost = [[100001 for _ in range(n+1)] for _ in range(n+1)]
 
 for _ in range(m):
@@ -18,7 +16,6 @@ for k in range(1, n+1): #경로 for문이 가장 상위 단계여야 누락되�
             else: #경로 거치는 것 or 직접 가는 것 or 이전 경로들
                 bus_cost[i][j] = min(bus_cost[i][j],
                                      bus_cost[i][k] + bus_cost[k][j])
-
 
 #출력
 for row in bus_cost[1:]:

@@ -5,22 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="67895403-2213-42c7-9d70-3eca7aea1f4d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/08_shortest_path/dijkstra.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/kakao_intern_2022/01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/kakao_intern_2022/02_kakao_intern.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/kakao_intern_2022/05.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/week02/01_합승택시요금.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/week03/01_shuttle_bus.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/week03/02_news_clustering.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/week03/03_four_blocks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_shortest_path/02_정확한 순위.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_shortest_path/03_화성탐사.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_shortest_path/04_숨바꼭질.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_shortest_path/ex_01_미래도시.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_shortest_path/ex_02_전보.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_shortest_path/floyd.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/week01/01_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/week01/01_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/week01/02_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/week01/02_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/week01/03_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/week01/03_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/week01/04_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/week01/04_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/week01/05_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/week01/05_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/week02/05_불량사용자.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/week02/05_불량사용자.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/week02/괄호 스택.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/week02/괄호 스택.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08_shortest_path/01_플로이드.py" beforeDir="false" afterPath="$PROJECT_DIR$/08_shortest_path/01_플로이드.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08_shortest_path/dijkstra.py" beforeDir="false" afterPath="$PROJECT_DIR$/08_shortest_path/dijkstra.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/week02/01_합승택시요금.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/week02/01_합승택시요금.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +50,7 @@
       <recent name="D:\hanghae99\06_hikers_algorithm\test\week01" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.03_four_blocks">
+  <component name="RunManager" selected="Python.floyd">
     <configuration name="01_shuttle_bus" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="06_hikers_algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -70,27 +64,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/week3/01_shuttle_bus.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="02_kakao_intern (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="06_hikers_algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test/kakao_intern_2022" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/kakao_intern_2022/02_kakao_intern.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -162,13 +135,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="floyd" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="06_hikers_algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08_shortest_path" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08_shortest_path/floyd.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.floyd" />
         <item itemvalue="Python.03_four_blocks" />
         <item itemvalue="Python.02_news_clustering" />
         <item itemvalue="Python.01_shuttle_bus" />
         <item itemvalue="Python.dijkstra" />
-        <item itemvalue="Python.02_kakao_intern (1)" />
       </list>
     </recent_temporary>
   </component>
